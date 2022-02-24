@@ -19,7 +19,7 @@ socialNetworks: [
 ]
 ```
 
-Then, use the commance below:
+Then, use the command below:
 
 ```bash
 npm run dev
